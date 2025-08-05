@@ -2,8 +2,12 @@
 
 A cost-effective and efficient embedded spatial mapping system using a VL53L1X Time-of-Flight (ToF) sensor, stepper motor, and microcontroller to generate 3D visualizations of indoor environments.
 
+## 📄 Complete Project Report
+For a comprehensive explanation of the design, implementation, testing, and results,
+**[click here to read the full project report](https://github.com/GitMustafaCode/Spatial-Mapping-System/blob/main/2023_2024_2DX3_Project_Specification.pdf)**.
+
+
 ## **Read this document for a detailed description**
-(https://github.com/GitMustafaCode/Spatial-Mapping-System/blob/main/2DX3_Project_Description.pdf)
 https://github.com/GitMustafaCode/Spatial-Mapping-System/blob/main/2023_2024_2DX3_Project_Specification.pdf
 
 ## **Demonstration**
