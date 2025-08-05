@@ -47,7 +47,7 @@ Setup
 5. Modify the Python script (`2DX_pythonCode_khana454.py`) to match your system's **UART port**.
 6. Run the Python script to start capturing spatial data:
    ```bash
-   python 2DX_pythonCode_khana454.py
+   python 2DX_pythonCode_shahim45.py
    ```
 
 ## **Project Overview**
