@@ -17,7 +17,7 @@ Setup
 
 3D visualisation of hallway scan
 
-![image](https://github.com/user-attachments/assets/55ac5f9a-5b96-4725-a40b-432eb3750625)  ![image](https://github.com/user-attachments/assets/468500ee-c6bd-4840-adb1-258a32191239)
+![image](https://github.com/GitMustafaCode/Spatial-Mapping-System/blob/main/Hallway%20Images.png)  ![image](https://github.com/user-attachments/assets/468500ee-c6bd-4840-adb1-258a32191239)
 
 ## **Circuit Schematic**
 ![image](https://github.com/user-attachments/assets/7343a142-c9ad-4d87-a23f-7d1beec329ad)
