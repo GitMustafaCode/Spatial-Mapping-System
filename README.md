@@ -81,7 +81,7 @@ This project creates a **3D spatial map** by rotating a **ToF sensor** mounted o
 - Controls **status LEDs** for data collection feedback.
 
 ### **Python Components (Data Processing & Visualization)**
-#### **2DX_pythonCode_khana454.py**
+#### **2DX_pythonCode_shahim45.py**
 - Reads data from the **MSP432E401Y via UART**.
 - Converts raw **distance readings** into **(x, y, z) coordinates**.
 - Generates a **3D point cloud** using **Open3D**.
