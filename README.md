@@ -4,7 +4,7 @@ A cost-effective and efficient embedded spatial mapping system using a VL53L1X T
 
 ## 📄 Complete Project Report
 For a comprehensive explanation of the design, implementation, testing, and results,
-**[click here to read the full project report](https://github.com/GitMustafaCode/Spatial-Mapping-System/blob/main/2DX3_Project_Report.pdf**.
+**(https://github.com/GitMustafaCode/Spatial-Mapping-System/blob/main/2DX3_Project_Report.pdf**.
 
 
 ## **Read this document for a detailed description**
