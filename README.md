@@ -13,7 +13,7 @@ https://github.com/GitMustafaCode/Spatial-Mapping-System/blob/main/2023_2024_2DX
 ## **Demonstration**
 Setup
 
-![image](https://github.com/user-attachments/assets/3c30caab-2e3f-4614-a1d4-3c1e4d0bfb10)
+![image][(https://github.com/user-attachments/assets/3c30caab-2e3f-4614-a1d4-3c1e4d0bfb10)](https://github.com/GitMustafaCode/Spatial-Mapping-System/blob/main/setup.png)
 
 3D visualisation of hallway scan
 
